@@ -1,0 +1,17 @@
+This an audiovisual performance with audio-reactive visuals.
+
+This project is based on the book "The Metamorphosis" by kafka, where I try to sonify the transformation that happens at the beginning of the book.
+
+For this, I divided the transformation into 4 chapters or stages. 
+
+- First is the awakening, where the character slowly wakes up and notices something different.
+
+- Second, the negation and the feeling of being lost. He is turning into an insect, but still has not accepted it.
+
+- Third, where the actual transformation occurs, he is no longer a human and recognises it.
+
+- Fourth and last one, the new reality and acceptance. 
+
+
+All chapters have different sounds and visuals.
+ 
